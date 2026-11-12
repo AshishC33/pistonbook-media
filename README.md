@@ -1,2 +1,5 @@
-# pistonbook-media
-a new public GitHub repository for pistonbook-media, holding only finished posts.
+# PistonBook media
+
+Finished PistonBook posts, as they appear on Instagram. Nothing else is kept here.
+
+PistonBook is a free bike logbook and group-ride app: https://pistonbook.com
